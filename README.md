@@ -16,21 +16,21 @@ What states have the highest number of outstanding loans?
 What customers own their homes outright and have current loans?
 Trevor also provided important information about the key metrics needed to answer these business questions.
 
-## Task 1
+## Task 1 - What is the total outstanding amount of all loans?
 The total balance of outstanding loans is the sum of all loan balances that have not been fully repaid. Lenders track this amount to understand their overall risk and financial health. In some jurisdictions, lenders are also required to collect this information to comply with regulations.
 ![image](https://github.com/user-attachments/assets/190b34db-4b51-4cb2-bdf0-6d5c36f57caf)
 
-## Task 2
+## Task 2 - What is the percentage of outstanding loans in each status category?
 The loan status is an important attribute to track. The loan status identifies if the loan payments are current, late, charged off, in default, fully paid off or in a grace period. Trevor explained that to mitigate risk, it is important to track what percentage of outstanding loans fall into each category.
 
 ![image](https://github.com/user-attachments/assets/e6276ef5-bc5a-4f01-8351-16e36571c906)
 
-## Task 3
+## Task 3  - What states have the highest number of outstanding loans?
 The borrower location is also a key consideration. The Treasury department is seeking to understand how loans are distributed geographically by state. This is because high concentrations of loans in one region can increase the risk of collective defaults. An even distribution of loans across regions can help to reduce this risk by ensuring that lenders are not overly reliant on any one area for their loan repayments.
 
 ![image](https://github.com/user-attachments/assets/b416130c-7501-4aba-8a8a-16a92a48622c)
 
-## Task 4
+## Task 4 - What customers own their homes outright and have current loans?
 The homeowner income index is a way to track the financial health of the borrowers using their income and home ownership status. This can help Trevor influence other teams to tailor their financial offering to the borrowers' needs as well as help make sure that they are meeting their goals of making borrowing accessible to a wide range of people.
 
 ![image](https://github.com/user-attachments/assets/ec1ed2c8-900a-4acb-a08c-f3a5855d189e)
